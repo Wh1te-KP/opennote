@@ -83,7 +83,7 @@ Send a message. That's it. No manual filing, no tagging, no folder management.
 
 | You send | AI creates |
 |----------|------------|
-| `"Asymmetry is the whole game when the future is uncertain."` | `notes/2026-03-09_interface-design.md` — timestamped note with your thought, auto-categorized |
+| `"Asymmetry is the whole game when the future is uncertain."` | `notes/2026-03-09_asymmetry-and-uncertainty.md` — timestamped note with your thought, auto-categorized |
 | *sends a photo of a whiteboard* | `notes/2026-03-09_whiteboard-notes.md` — extracts all text from the image into a searchable note |
 | `https://example.com/interesting-article` | `notes/2026-03-09_interesting-article.md` — fetches, summarizes, and saves with context |
 | `"what patterns do you see in my notes from the past week?"` | `explorations/2026-03-09_weekly-patterns.md` — finds recurring themes across your notes |
