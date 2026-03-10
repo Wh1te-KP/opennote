@@ -55,7 +55,7 @@ Asymmetry is the whole game when the future is uncertain.
 
 ```bash
 gh repo fork ryannli/opennote --clone
-cd open-note
+cd opennote
 ./setup.sh
 ```
 
@@ -92,7 +92,7 @@ Send a message. That's it. No manual filing, no tagging, no folder management.
 ## Directory Structure
 
 ```
-open-note/
+opennote/
 ├── CLAUDE.md          # AI instructions — customize how notes are organized
 ├── notes/             # One file per topic, organized by date
 │   ├── 2026-03-06_product-ideas.md
