@@ -19,7 +19,7 @@ The user sends content via Claude Code. Claude's job is to:
 ## Directory Structure
 
 ```
-open-note/
+opennote/
 ├── CLAUDE.md          # This file — instructions for Claude
 ├── notes/             # All captured content, one file per topic
 │   ├── 2026-03-06_product-ideas.md

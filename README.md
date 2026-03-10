@@ -19,7 +19,7 @@
 </td>
 <td>
 
-You're on the bus and have an idea. You open Claude on your phone and say:
+You're on the bus and a thought hits you. You open Claude on your phone and say:
 
 ```
 Asymmetry is the whole game when the future is uncertain.
@@ -54,7 +54,7 @@ Asymmetry is the whole game when the future is uncertain.
 > Expects [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [GitHub CLI (`gh`)](https://cli.github.com/) installed.
 
 ```bash
-gh repo fork ryannli/open-note --clone
+gh repo fork ryannli/opennote --clone
 cd open-note
 ./setup.sh
 ```
