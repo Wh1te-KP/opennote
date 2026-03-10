@@ -12,17 +12,24 @@
 
 ---
 
+<table>
+<tr>
+<td width="250">
+<img src="demo-mobile.gif" alt="OpenNote mobile demo" width="250">
+</td>
+<td>
+
 You're on the bus and have an idea. You open Claude on your phone and say:
 
 ```
-the best interfaces disappear — you forget you're using a tool and just think
+Asymmetry is the whole game when the future is uncertain.
 ```
 
 Hit send. That's it. Claude handles the rest — organizes it into a markdown file, commits, and pushes to your Git repo. Timestamped, categorized, searchable, and yours forever.
 
-<div align="center">
-<img src="demo-mobile.gif" alt="OpenNote mobile demo" width="300">
-</div>
+</td>
+</tr>
+</table>
 
 ## Highlights
 
@@ -55,7 +62,7 @@ cd open-note
 Start capturing:
 
 ```bash
-claude "the best interfaces disappear — you forget you're using a tool and just think"
+claude "Asymmetry is the whole game when the future is uncertain."
 ```
 
 Or open Claude on your phone and just start talking.
@@ -76,7 +83,7 @@ Send a message. That's it. No manual filing, no tagging, no folder management.
 
 | You send | AI creates |
 |----------|------------|
-| `"the best interfaces disappear — you forget you're using a tool and just think"` | `notes/2026-03-09_interface-design.md` — timestamped note with your thought, auto-categorized |
+| `"Asymmetry is the whole game when the future is uncertain."` | `notes/2026-03-09_interface-design.md` — timestamped note with your thought, auto-categorized |
 | *sends a photo of a whiteboard* | `notes/2026-03-09_whiteboard-notes.md` — extracts all text from the image into a searchable note |
 | `https://example.com/interesting-article` | `notes/2026-03-09_interesting-article.md` — fetches, summarizes, and saves with context |
 | `"what patterns do you see in my notes from the past week?"` | `explorations/2026-03-09_weekly-patterns.md` — finds recurring themes across your notes |
