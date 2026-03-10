@@ -2,9 +2,9 @@
 
 # OpenNote
 
-**Your AI-powered personal info bank.**
+**Capture fragments today. Make better decisions tomorrow.**
 
-Capture anything from your phone. AI organizes it into clean markdown files in Git.
+*Your thoughts, compounded.*
 
 [Quick Start](#quick-start) · [How It Works](#how-it-works) · [Examples](#examples) · [Why Plain Files?](#why-plain-files)
 
