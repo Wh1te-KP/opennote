@@ -2,7 +2,7 @@
 
 ## Config
 
-- **Timezone**: TIMEZONE_PLACEHOLDER
+- **Timezone**: Asia/Shanghai
 
 ## What This Repo Is
 
@@ -163,4 +163,4 @@ Over time, this info bank accumulates enough raw material to **discover hidden p
 - Keep it simple. This is a capture tool, not a CMS.
 - Don't over-organize. Chronological order is the primary structure, topic is the secondary structure.
 - Don't translate or rewrite the user's words unless asked.
-- Always commit and push after adding content.
+- Always commit and push directly to the `main` branch after adding content. Do NOT create feature branches or pull requests — push to `main` immediately.
